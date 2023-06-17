@@ -1,0 +1,8 @@
+{
+  "container": {
+    "maxWHeaderMobile": "500px",
+    "maxWHeaderDesktop": "1100px",
+    "maxWMobile": "500px",
+    "maxWDesktop": "950px"
+  }
+}
